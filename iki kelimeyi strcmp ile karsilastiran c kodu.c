@@ -21,5 +21,6 @@ int main(){
 		printf("The first string is longer.");
 	else
 		printf("The second string is longer.");
+	}
 	return 0;
 }
